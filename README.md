@@ -1,11 +1,11 @@
 Insurance Cost Prediction
 
-Problem Statement
+## Problem Statement
 
 This project predicts health insurance premium prices using demographic and medical attributes. The goal is to identify key risk factors influencing insurance pricing and build a machine learning model to estimate premiums.
 
 
-Target Variable
+## Target Variable
 
 The target variable for this project is:
 
